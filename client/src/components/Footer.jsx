@@ -26,7 +26,7 @@ function Footer() {
       <div className="flex justify-center items-center flex-col mt-5">
         <p className="text-white text-small text-center">Come Join Us</p>
         <p className="text-white text-small text-center">
-          maheshbandlamudi7@gmail.com
+          careers@sloka.com
         </p>
       </div>
       <div className="sm:w-[90%] w-full h-[0.25px] bg-gray-400 mt-5">
