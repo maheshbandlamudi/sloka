@@ -13,7 +13,7 @@ function Footer() {
             Market
           </p>
           <p className="text-white text-base text-center mx-2 cursor-pointer">
-            Exchange
+            Exchange Market
           </p>
           <p className="text-white text-base text-center mx-2 cursor-pointer">
             Tutorials
